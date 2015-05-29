@@ -1,0 +1,28 @@
+﻿@charset "utf-8";
+/* CSS Document */
+/* Jargan76 Studios CSS */
+
+#jargan {       /* Logo Jargan    Studio*/
+	font-family: 'Indie Flower', cursive;
+	color: #c2c2d6;
+	text-shadow: 4px 4px 3px #333300;
+	font-variant: small-caps;
+	padding: 0px 0px;
+	margin:0px 0px;
+}
+
+#jargan1 {			/* Logo 76 */
+    font-family:Verdana, Geneva, sans-serif;
+	color: #ba7a19;
+	font-size: 105%;
+	font-outline: .5px solid purple;
+	text-shadow: 4px 4px 3px #333300;
+	padding: 0px 0px;
+	margin:0px 0px;
+}
+
+#jargan2 {     /* copyright */
+    font-size: 4%;
+	padding: 0px 0px;
+	margin:0px 0px;
+}
